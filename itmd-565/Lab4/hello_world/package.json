@@ -1,0 +1,13 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "Lab 4 project that contains a basic node js hello world app",
+  "main": "index.js",
+  
+  "scripts": {
+    "start" : "node index.js",
+    "test": "start"
+  },
+  "author": "Poonam",
+  "license": "ISC"
+}
